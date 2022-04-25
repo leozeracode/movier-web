@@ -1,0 +1,55 @@
+.button {
+  margin-top: 20px;
+  width: 252px;
+  text-transform: none;
+  background: #ffce00;
+  border-radius: 4px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.2rem;
+
+  color: #ffffff;
+}
+
+.title {
+  text-align: center;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 3rem;
+  line-height: 117.4%;
+
+  align-items: center;
+  letter-spacing: 0.15px;
+
+  color: #ffffff;
+}
+
+.titleBold {
+  font-weight: 700;
+}
+
+.text {
+  margin-top: 20px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 117.4%;
+  /* or 73px */
+
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.15px;
+
+  color: #ffffff;
+}
+
+.logo {
+  position: absolute;
+  left: 134px;
+  top: 37px;
+
+  img{
+    width: 150px;
+  }
+}
